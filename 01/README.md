@@ -30,7 +30,9 @@ We would like to make a seven itarations loop, different syntaxes are available:
 For each iteration, we would like our row variable to be increased by 1 "#", then logged to the console.
 We obtain increment of our row variable by using concatenation.
 
-> for (let i = 1; i <= 7; i++) {
->   row += '#';
->   console.log(row);
-> }
+```
+for (let i = 1; i <= 7; i++) {
+  row += '#';
+  console.log(row);
+}
+```
