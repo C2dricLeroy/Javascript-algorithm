@@ -14,8 +14,9 @@ Write a loop that makes seven calls to console.log to output the following trian
 
 ## Flowchart: 
 
+![flowchart](01.png)
 
-## Pseudo-code: 
+## Pseudocode: 
 
 
 
