@@ -15,6 +15,10 @@ Write a loop that makes seven calls to console.log to output the following trian
 ## Flowchart: 
 
 
+## Pseudo-code: 
+
+
+
 ## Code Solution: 
 
 For our solution, first of all we will declare a variable that represent each row on screen. 
@@ -36,3 +40,5 @@ for (let i = 1; i <= 7; i++) {
   console.log(row);
 }
 ```
+
+
