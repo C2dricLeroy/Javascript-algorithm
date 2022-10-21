@@ -19,11 +19,12 @@ Write a loop that makes seven calls to console.log to output the following trian
 ## Pseudocode: 
 
 ```
-var <- '#'
-For Numbers between 1 to 7: 
-  Print (var)
+Procedure printTriangle
+var:string <- ''
+For i from 1 to 7
+  print (var)
   var += '#'
-  Numbers ++
+  i += 1
 
 ```
 
