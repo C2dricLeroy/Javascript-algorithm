@@ -17,7 +17,7 @@ For Number from 1 to 100
     Then : FizzBuzz
 
   If Number % 3 = 0 
-    Then : Fizz
+    Then : AfficheConsoleFizz
 
   If Number % 5 = 0
     Then : Buzz
