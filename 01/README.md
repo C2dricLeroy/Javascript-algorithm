@@ -18,6 +18,14 @@ Write a loop that makes seven calls to console.log to output the following trian
 
 ## Pseudocode: 
 
+```
+var <- '#'
+For Numbers between 1 to 7: 
+  Print (var)
+  var += '#'
+  Numbers ++
+
+```
 
 
 ## Code Solution: 
@@ -36,10 +44,11 @@ For each iteration, we would like our row variable to be increased by 1 "#", the
 We obtain increment of our row variable by using concatenation.
 
 ```
-for (let i = 1; i <= 7; i++) {
+for (let i = 0; i < 7; i += 1) {
   row += '#';
   console.log(row);
 }
 ```
+
 
 
