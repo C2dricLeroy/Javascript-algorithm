@@ -1,3 +1,3 @@
 # Javascript-algorithm
 
-Here, I will practice my algorythms in Javascript!
+Here, I will practice my algorithms in Javascript!
