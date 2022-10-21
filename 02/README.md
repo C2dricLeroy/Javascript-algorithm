@@ -6,7 +6,7 @@ When you have that working, modify your program to print "FizzBuzz" for numbers 
 
 ## Flowchart    
 
-![Flowchart](02 (02%20(1).png)  
+![Flowchart](02%20(1).png)  
 
 ## Pseudocode   
 
