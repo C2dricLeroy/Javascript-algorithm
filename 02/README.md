@@ -11,17 +11,18 @@ When you have that working, modify your program to print "FizzBuzz" for numbers 
 ## Pseudocode   
 
 ```
-For Number from 1 to 100: 
+For Number from 1 to 100
 
-If Number % 3 = 0 && Number % 5 = 0: 
-Then : FizzBuzz
+  If Number % 3 = 0 AND Number % 5 = 0 
+    Then : FizzBuzz
 
-If Number % 3 = 0: 
-Then : Fizz
+  If Number % 3 = 0 
+    Then : Fizz
 
-If Number % 5 = 0: 
+  If Number % 5 = 0
+    Then : Buzz
 
-Else : Print Number   
+  Else Print Number   
 
 ```
 
