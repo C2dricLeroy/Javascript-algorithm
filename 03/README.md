@@ -20,7 +20,14 @@ When you have a program that generates this pattern, define a binding size = 8 a
 
 ## flowchart 
 
-![flowchart](03.png)
+### step 1
+
+![flowchartOne](03.png)
+
+### step 2
+
+![flowchartTwo] (03(02).png)
+
 
 ## Pseudocode
 
