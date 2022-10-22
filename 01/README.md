@@ -20,11 +20,9 @@ Write a loop that makes seven calls to console.log to output the following trian
 
 ```
 Procedure printTriangle
-var:string <- ''
-For i from 1 to 7
-  print (var)
-  var += '#'
-  i += 1
+word:string <- ''
+For each row
+  Add a # to word
 
 ```
 
@@ -33,7 +31,7 @@ For i from 1 to 7
 
 For our solution, first of all we will declare a variable that represent each row on screen. 
 
-```let row = '';```
+```let word = '';```
 
 We would like to make a seven itarations loop, different syntaxes are available: 
 
@@ -46,8 +44,8 @@ We obtain increment of our row variable by using concatenation.
 
 ```
 for (let i = 0; i < 7; i += 1) {
-  row += '#';
-  console.log(row);
+  word += '#';
+  console.log(word);
 }
 ```
 

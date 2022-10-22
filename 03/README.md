@@ -26,24 +26,24 @@ When you have a program that generates this pattern, define a binding size = 8 a
 
 ```
 Procedure printChessboard
-For row between 0 to 6
+For each row from 1 to 7
   declare variable word = ' '
-  if i is odd
-    for column between 0 to 7
-      if j is odd 
+  if the row's number is odd
+    for column from 0 to 7
+      if the column's number is odd 
         add '_' to word
-      else
+      else if it's even
         add '#' to word
-    end j loop
-  else 
-    for column between 0 to 7
-      if j is odd
+    end column's loop
+  else if it's even
+    for each column from 1 to 8
+      if the colmun's number is odd
         add '#' to word
-      else
-        add '_'
-    end j loop to word
+      else if it's even
+        add '_' to word
+    end column's loop to word
   print word
-end i loop
+end row's loop
     
 ```
 

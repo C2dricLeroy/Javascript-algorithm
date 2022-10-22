@@ -11,16 +11,16 @@ When you have that working, modify your program to print "FizzBuzz" for numbers 
 ## Pseudocode   
 
 ```
-For Number from 1 to 100
+For each Number from 1 to 100
 
   If Number % 3 = 0 AND Number % 5 = 0 
-    Then : FizzBuzz
+    Then print FizzBuzz
 
   If Number % 3 = 0 
-    Then : AfficheConsoleFizz
+    Then print Fizz
 
   If Number % 5 = 0
-    Then : Buzz
+    Then print Buzz
 
   Else Print Number   
 

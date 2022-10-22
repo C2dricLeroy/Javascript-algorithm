@@ -19,15 +19,15 @@ console.log(min(0, -10));
 ## Pseudocode
 
 ```
-declare number1 = input1
-declare number2 = input2
+declare number1 <- Userinput1
+declare number2 <- Userinput2
 Function returnMinimum(input1, input2)
-if number1 < number2
+if number1 smallest than number2
   return "number 1 is minimum"
-if number2 < number1
+if number2 smallest than number1
   return "number 2 is minimum"
-else
-  return "number2 = number1"
+else 
+  return "error: number2 is equal to number1"
 End
 ```
 
