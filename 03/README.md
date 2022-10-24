@@ -26,7 +26,7 @@ When you have a program that generates this pattern, define a binding size = 8 a
 
 ### step 2
 
-![flowchartTwo] (03(02).png)
+![flowchartTwo] (0302.png)
 
 
 ## Pseudocode
