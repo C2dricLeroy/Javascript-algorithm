@@ -9,6 +9,8 @@ If a and b have the same length treat a as the longer producing b+reverse(a)+b
 
 ## flowchart
 
+![flowchart](06.png)
+
 ## pseudocode
 
 ## code solution: 
