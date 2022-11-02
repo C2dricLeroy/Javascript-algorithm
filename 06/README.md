@@ -1,18 +1,21 @@
-# Bean Counting
+# shorter concat [reverse longer]
 
+Given 2 strings, a and b, return a string of the form: shorter+reverse(longer)+shorter.
 
-You can get the Nth character, or letter, from a string by writing "string"[N]. The returned value will be a string containing only one character (for example, "b"). The first character has position 0, which causes the last one to be found at position string.length - 1. In other words, a two-character string has length 2, and its characters have positions 0 and 1.
+In other words, the shortest string has to be put as prefix and as suffix of the reverse of the longest.
 
-Write a function countBs that takes a string as its only argument and returns a number that indicates how many uppercase “B” characters there are in the string.
+Strings a and b may be empty, but not null (In C# strings may also be null. Treat them as if they are empty.).
+If a and b have the same length treat a as the longer producing b+reverse(a)+b
 
-Next, write a function called countChar that behaves like countBs, except it takes a second argument that indicates the character that is to be counted (rather than counting only uppercase “B” characters). Rewrite countBs to make use of this new function.
+## flowchart
 
+## pseudocode
 
-```js
+## code solution: 
 
-console.log(countBs("BBC"));
-// → 2
-
-console.log(countChar("kakkerlak", "k"));
-// → 4
+```
+function shorter_reverse_longer(a,b){
+  return a.length >= b.length ? b + a.split('').reverse().join('') + b :
+  a + b.split('').reverse().join('') + a;
+}
 ```
