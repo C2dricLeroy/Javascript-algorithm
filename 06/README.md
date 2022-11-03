@@ -11,8 +11,21 @@ If a and b have the same length treat a as the longer producing b+reverse(a)+b
 
 ![flowchart](06.png)
 
-## pseudocode
+## pseudocode   
 
+
+```
+function shorter_reverse_shorter: 
+Compare the two word: 
+  If word A longer than word B:
+    return b + reverse(a) + b
+  Else if word B longer than word A : 
+    return b + reverse(a) + b
+  Else if word are equal : 
+    return b + reverse(a) + b
+```
+   
+     
 ## code solution: 
 
 ```
