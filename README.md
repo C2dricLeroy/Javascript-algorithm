@@ -2,6 +2,13 @@
 
 Here, I will practice my Javascript algorythms!
 
+Inside all the folders, you will find a flowchart, a pseudocode, and the JS solution to the problem. 
+
+Most of the exercices are taken from [codewars]([codewars](https://www.codewars.com)). 
+
+Warning : This repository can contain spoilers ! Don't forget to serach the solution by yourself.
+
+Moreover, not all the solutions are refactored or improved yet!
 
 - 01 : Looping a triangle
 - 02 : FizzBuzz
