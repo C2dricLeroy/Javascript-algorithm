@@ -4,7 +4,7 @@ Here, I will practice my Javascript algorythms!
 
 Inside all the folders, you will find a flowchart, a pseudocode, and the JS solution to the problem. All the solutions will be formatted to respect the Airbnb Javascript convention. 
 
-Most of the exercices are taken from [codewars]([codewars](https://www.codewars.com)). 
+Most of the exercices are taken from [codewars](https://www.codewars.com)). 
 
 Warning : This repository can contain spoilers ! Don't forget to serach the solution by yourself.
 
