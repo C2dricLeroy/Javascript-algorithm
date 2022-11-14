@@ -20,3 +20,4 @@ Moreover, not all the solutions are refactored or improved yet!
 - 08 : Debug Sum of Digits of a Number
 - 09 : Grasshopper - Debug
 - 10 : Regular Ball Super Ball
+- 11 : Remove duplicates from list
