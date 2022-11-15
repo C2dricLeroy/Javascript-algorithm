@@ -34,3 +34,4 @@ Moreover, not all the solutions are refactored or improved yet!
 - 22 : Regexp Basics - Is it a digit?
 - 23 : Compare with margin
 - 24 : Find Maximum and Minimum Values of a List
+- 25 : Welcome to the City
