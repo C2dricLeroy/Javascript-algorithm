@@ -35,3 +35,4 @@ Moreover, not all the solutions are refactored or improved yet!
 - 23 : Compare with margin
 - 24 : Find Maximum and Minimum Values of a List
 - 25 : Welcome to the City
+- 26 : Freudian translator
