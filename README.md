@@ -31,3 +31,4 @@ Moreover, not all the solutions are refactored or improved yet!
 - 19 : Take the Derivative
 - 20 : Playing with cubes II
 - 21 : L1:Set Alarm
+- 22 : Regexp Basics - Is it a digit?
