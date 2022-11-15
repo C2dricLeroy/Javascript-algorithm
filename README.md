@@ -29,3 +29,4 @@ Moreover, not all the solutions are refactored or improved yet!
 - 17 : Pythagorean Triple
 - 18 : Online RPG : player to qualifying stage?
 - 19 : Take the Derivative
+- 20 : Playing with cubes II
