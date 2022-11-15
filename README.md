@@ -33,3 +33,4 @@ Moreover, not all the solutions are refactored or improved yet!
 - 21 : L1:Set Alarm
 - 22 : Regexp Basics - Is it a digit?
 - 23 : Compare with margin
+- 24 : Find Maximum and Minimum Values of a List
