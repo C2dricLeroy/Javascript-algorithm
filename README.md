@@ -26,3 +26,4 @@ Moreover, not all the solutions are refactored or improved yet!
 - 14 : FIXME: Get Full Name
 - 15 : Find the position!
 - 16 : Short Long Short
+- 17 : Pythagorean Triple
