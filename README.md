@@ -27,3 +27,4 @@ Moreover, not all the solutions are refactored or improved yet!
 - 15 : Find the position!
 - 16 : Short Long Short
 - 17 : Pythagorean Triple
+- 18 : Online RPG : player to qualifying stage?
