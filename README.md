@@ -25,3 +25,4 @@ Moreover, not all the solutions are refactored or improved yet!
 - 13 : Find numbers which are divisible by given number 
 - 14 : FIXME: Get Full Name
 - 15 : Find the position!
+- 16 : Short Long Short
