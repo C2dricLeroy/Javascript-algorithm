@@ -22,3 +22,4 @@ Moreover, not all the solutions are refactored or improved yet!
 - 10 : Regular Ball Super Ball
 - 11 : Remove duplicates from list
 - 12 : Capitalization and Mutability
+- 13 : Find numbers which are divisible by given number 
