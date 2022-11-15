@@ -21,3 +21,4 @@ Moreover, not all the solutions are refactored or improved yet!
 - 09 : Grasshopper - Debug
 - 10 : Regular Ball Super Ball
 - 11 : Remove duplicates from list
+- 12 : Capitalization and Mutability
