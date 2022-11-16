@@ -40,3 +40,4 @@ Moreover, not all the solutions are refactored or improved yet!
 - 28 : Decibel Scale
 - 29 : Simple Fun #1: Seats in Theater
 - 30 : Holiday VIII - Duty Free
+- 31 : No zeros for Heroes
