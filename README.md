@@ -37,3 +37,5 @@ Moreover, not all the solutions are refactored or improved yet!
 - 25 : Welcome to the City
 - 26 : Freudian translator
 - 27 : Fundamentals: Return
+- 28 : Decibel Scale
+- 29 : Simple Fun #1: Seats in Theater
