@@ -42,3 +42,4 @@ Moreover, not all the solutions are refactored or improved yet!
 - 30 : Holiday VIII - Duty Free
 - 31 : No zeros for Heroes
 - 32 : Dollars and Cents
+- 33 : Find the integral
