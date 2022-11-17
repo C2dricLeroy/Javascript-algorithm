@@ -43,3 +43,4 @@ Moreover, not all the solutions are refactored or improved yet!
 - 31 : No zeros for Heroes
 - 32 : Dollars and Cents
 - 33 : Find the integral
+- 34 : For UFC Fans (Total Beginners): Conor McGregor vs George Saint Pierre
