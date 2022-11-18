@@ -46,3 +46,4 @@ Moreover, not all the solutions are refactored or improved yet!
 - 34 : For UFC Fans (Total Beginners): Conor McGregor vs George Saint Pierre
 - 35 : Grasshopper : Order of operations
 - 36 : ASCII total
+- 37: Contamination #1 -String-
