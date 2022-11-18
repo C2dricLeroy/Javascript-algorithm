@@ -59,3 +59,4 @@ Moreover, not all the solutions are refactored or improved yet!
 - 47 : Miles per gallon to kilometers per liter
 - 48 : Leonardo Dicaprio and Oscars
 - 49 : Name on billboard
+- 50 : Thinkful - Number Drills: Blue and red marbles
