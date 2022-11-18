@@ -46,9 +46,10 @@ Moreover, not all the solutions are refactored or improved yet!
 - 34 : For UFC Fans (Total Beginners): Conor McGregor vs George Saint Pierre
 - 35 : Grasshopper : Order of operations
 - 36 : ASCII total
-- 37: Contamination #1 -String-
+- 37 : Contamination #1 -String-
 - 38 : NBA full 48 minutes average
 - 39 : Find the Slope
 - 40 : Grader
 - 41 : Simple Comparison?
 - 42 : Polish Alphabet
+- 43 : Evil or Odious ? 
