@@ -51,3 +51,4 @@ Moreover, not all the solutions are refactored or improved yet!
 - 39 : Find the Slope
 - 40 : Grader
 - 41 : Simple Comparison?
+- 42 : Polish Alphabet
