@@ -49,3 +49,4 @@ Moreover, not all the solutions are refactored or improved yet!
 - 37: Contamination #1 -String-
 - 38 : NBA full 48 minutes average
 - 39 : Find the Slope
+- 40 : Grader
