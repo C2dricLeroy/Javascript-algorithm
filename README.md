@@ -54,3 +54,4 @@ Moreover, not all the solutions are refactored or improved yet!
 - 42 : Polish Alphabet
 - 43 : Evil or Odious ? 
 - 44 : ES6 string addition
+- 45 : Type of sum
