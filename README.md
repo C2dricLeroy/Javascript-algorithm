@@ -57,3 +57,4 @@ Moreover, not all the solutions are refactored or improved yet!
 - 45 : Type of sum
 - 46 : The falling speed of petals
 - 47 : Miles per gallon to kilometers per liter
+- 48 : Leonardo Dicaprio and Oscars
