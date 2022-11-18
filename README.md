@@ -60,3 +60,4 @@ Moreover, not all the solutions are refactored or improved yet!
 - 48 : Leonardo Dicaprio and Oscars
 - 49 : Name on billboard
 - 50 : Thinkful - Number Drills: Blue and red marbles
+- 51 : get ascii value of character
