@@ -63,3 +63,4 @@ Moreover, not all the solutions are refactored or improved yet!
 - 51 : get ascii value of character
 - 52 : Who ate the cookie?
 - 53 : Get number from string
+- 54 : Closest elevator
