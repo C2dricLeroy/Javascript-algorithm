@@ -65,3 +65,4 @@ Moreover, not all the solutions are refactored or improved yet!
 - 53 : Get number from string
 - 54 : Closest elevator
 - 55 : Smallest unused ID
+- 56 : Color Ghost
