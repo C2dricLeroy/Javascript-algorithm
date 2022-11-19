@@ -62,3 +62,4 @@ Moreover, not all the solutions are refactored or improved yet!
 - 50 : Thinkful - Number Drills: Blue and red marbles
 - 51 : get ascii value of character
 - 52 : Who ate the cookie?
+- 53 : Get number from string
