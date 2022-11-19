@@ -66,3 +66,4 @@ Moreover, not all the solutions are refactored or improved yet!
 - 54 : Closest elevator
 - 55 : Smallest unused ID
 - 56 : Color Ghost
+- 57 : Kata Example Twist
