@@ -67,3 +67,4 @@ Moreover, not all the solutions are refactored or improved yet!
 - 55 : Smallest unused ID
 - 56 : Color Ghost
 - 57 : Kata Example Twist
+- 58 : Remove the time
