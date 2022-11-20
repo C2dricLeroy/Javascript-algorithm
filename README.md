@@ -68,3 +68,4 @@ Moreover, not all the solutions are refactored or improved yet!
 - 56 : Color Ghost
 - 57 : Kata Example Twist
 - 58 : Remove the time
+- 59 : Find whether the shape is a cube
