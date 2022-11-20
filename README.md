@@ -69,3 +69,4 @@ Moreover, not all the solutions are refactored or improved yet!
 - 57 : Kata Example Twist
 - 58 : Remove the time
 - 59 : Find whether the shape is a cube
+- 60 : validate code with simple regex
