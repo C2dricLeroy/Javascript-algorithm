@@ -72,3 +72,4 @@ Moreover, not all the solutions are refactored or improved yet!
 - 60 : validate code with simple regex
 - 61 : Tip Calculator
 - 62 : Are arrow functions odd? 
+- 63 : Who is going to pay for the wall?
