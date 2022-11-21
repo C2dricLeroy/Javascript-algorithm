@@ -73,3 +73,4 @@ Moreover, not all the solutions are refactored or improved yet!
 - 61 : Tip Calculator
 - 62 : Are arrow functions odd? 
 - 63 : Who is going to pay for the wall?
+- 64 : Find Nearest square number
