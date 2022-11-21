@@ -70,3 +70,4 @@ Moreover, not all the solutions are refactored or improved yet!
 - 58 : Remove the time
 - 59 : Find whether the shape is a cube
 - 60 : validate code with simple regex
+- 61 : Tip Calculator
