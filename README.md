@@ -76,3 +76,4 @@ Moreover, not all the solutions are refactored or improved yet!
 - 64 : Find Nearest square number
 - 65 : Sleigh Authentication
 - 66 : Even or odd ? 
+- 67 : Opposite number
