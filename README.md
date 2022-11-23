@@ -75,3 +75,4 @@ Moreover, not all the solutions are refactored or improved yet!
 - 63 : Who is going to pay for the wall?
 - 64 : Find Nearest square number
 - 65 : Sleigh Authentication
+- 66 : Even or odd ? 
