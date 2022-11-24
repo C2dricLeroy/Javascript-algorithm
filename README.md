@@ -82,3 +82,4 @@ Moreover, not all the solutions are refactored or improved yet!
 - 70 : Grasshopper - Combine strings
 - 71 : Regex count lowercase letters
 - 72 : Holiday VI - Shark Pontoon
+- 73 : BASIC: Making Six Toast.
