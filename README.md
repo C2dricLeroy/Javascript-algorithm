@@ -79,3 +79,4 @@ Moreover, not all the solutions are refactored or improved yet!
 - 67 : Opposite number
 - 68 : Multiply
 - 69 : Chuck Norris VII - True or False? (Beginner)
+- 70 : Grasshopper - Combine strings
