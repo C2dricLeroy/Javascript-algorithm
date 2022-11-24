@@ -80,3 +80,4 @@ Moreover, not all the solutions are refactored or improved yet!
 - 68 : Multiply
 - 69 : Chuck Norris VII - True or False? (Beginner)
 - 70 : Grasshopper - Combine strings
+- 71 : Regex count lowercase letters
