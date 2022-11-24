@@ -78,3 +78,4 @@ Moreover, not all the solutions are refactored or improved yet!
 - 66 : Even or odd ? 
 - 67 : Opposite number
 - 68 : Multiply
+- 69 : Chuck Norris VII - True or False? (Beginner)
