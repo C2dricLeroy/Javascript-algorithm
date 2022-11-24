@@ -81,3 +81,4 @@ Moreover, not all the solutions are refactored or improved yet!
 - 69 : Chuck Norris VII - True or False? (Beginner)
 - 70 : Grasshopper - Combine strings
 - 71 : Regex count lowercase letters
+- 72 : Holiday VI - Shark Pontoon
