@@ -77,3 +77,4 @@ Moreover, not all the solutions are refactored or improved yet!
 - 65 : Sleigh Authentication
 - 66 : Even or odd ? 
 - 67 : Opposite number
+- 68 : Multiply
