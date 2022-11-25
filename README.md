@@ -83,3 +83,5 @@ Moreover, not all the solutions are refactored or improved yet!
 - 71 : Regex count lowercase letters
 - 72 : Holiday VI - Shark Pontoon
 - 73 : BASIC: Making Six Toast.
+- 74 : Exclamation marks series #4: Remove all exclamation marks from sentence but ensure a exclamation mark at the end of string
+- 75 : simple calculator
