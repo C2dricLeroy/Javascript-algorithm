@@ -88,3 +88,4 @@ Moreover, not all the solutions are refactored or improved yet!
 - 76 : USD => CNY
 - 77 : Exclamation marks series #2: Remove all exclamation marks from the end of sentence
 - 78 : Determine offspring sex based on genes XX and XY chromosomes
+- 79 : L1: Bartender, drinks!
