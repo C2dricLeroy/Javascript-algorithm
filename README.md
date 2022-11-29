@@ -96,3 +96,4 @@ Moreover, not all the solutions are refactored or improved yet!
 - 84 : Get Nth Even Number
 - 85 : Grasshopper - Terminal game move function
 - 86 : Grasshopper - Messi goals function
+- 87 : Beginner Series #2 Clock
