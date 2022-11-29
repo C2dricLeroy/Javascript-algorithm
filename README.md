@@ -93,3 +93,4 @@ Moreover, not all the solutions are refactored or improved yet!
 - 81 : Lario and Muigi Pipe Problem
 - 82 : Exclusive "or" (xor) Logical Operator
 - 83 : Exclamation marks series #11: Replace all vowel to exclamation mark in the sentence
+- 84 : Get Nth Even Number
