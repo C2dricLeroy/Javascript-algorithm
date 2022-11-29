@@ -95,4 +95,4 @@ Moreover, not all the solutions are refactored or improved yet!
 - 83 : Exclamation marks series #11: Replace all vowel to exclamation mark in the sentence
 - 84 : Get Nth Even Number
 - 85 : Grasshopper - Terminal game move function
-- 
+- 86 : Grasshopper - Messi goals function
