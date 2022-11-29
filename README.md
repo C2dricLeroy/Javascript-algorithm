@@ -92,3 +92,4 @@ Moreover, not all the solutions are refactored or improved yet!
 - 80 : How old will I be in 2099?
 - 81 : Lario and Muigi Pipe Problem
 - 82 : Exclusive "or" (xor) Logical Operator
+- 83 : Exclamation marks series #11: Replace all vowel to exclamation mark in the sentence
