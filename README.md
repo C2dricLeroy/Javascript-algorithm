@@ -91,4 +91,4 @@ Moreover, not all the solutions are refactored or improved yet!
 - 79 : L1: Bartender, drinks!
 - 80 : How old will I be in 2099?
 - 81 : Lario and Muigi Pipe Problem
-- 82 : 
+- 82 : Exclusive "or" (xor) Logical Operator
