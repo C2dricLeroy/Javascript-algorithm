@@ -99,3 +99,5 @@ Moreover, not all the solutions are refactored or improved yet!
 - 87 : Beginner Series #2 Clock
 - 88 : Hello Happy Codevarrior!
 - 89 : Shifty Closures
+- 90 : Max Headroom and JavaScript style
+- 91 : Broken Counter
