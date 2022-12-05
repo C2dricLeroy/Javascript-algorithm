@@ -104,3 +104,4 @@ Moreover, not all the solutions are refactored or improved yet!
 - 92 : A bugs trilogy: Episode 1 - "Let Math.Random(); decide your future"
 - 93 : Return to Sanity
 - 94 : Unexpected parsing
+- 95 : Multiply the number
