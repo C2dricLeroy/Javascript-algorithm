@@ -105,3 +105,4 @@ Moreover, not all the solutions are refactored or improved yet!
 - 93 : Return to Sanity
 - 94 : Unexpected parsing
 - 95 : Multiply the number
+- 96 : Fix the Bugs (Syntax) - My First Kata
