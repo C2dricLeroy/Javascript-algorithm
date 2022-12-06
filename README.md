@@ -107,3 +107,4 @@ Moreover, not all the solutions are refactored or improved yet!
 - 95 : Multiply the number
 - 96 : Fix the Bugs (Syntax) - My First Kata
 - 97 : Incorrect division method
+- 98 : Fix your code before the garden dies!
