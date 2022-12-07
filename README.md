@@ -110,3 +110,4 @@ Moreover, not all the solutions are refactored or improved yet!
 - 98 : Fix your code before the garden dies!
 - 99 : Is this my tail?
 - 100 : String cleaning
+- 101 : Triple Trouble
