@@ -113,3 +113,5 @@ Moreover, not all the solutions are refactored or improved yet!
 - 101 : Triple Trouble
 - 102 : Reversing Words in a String
 - 103 : Generate range of integers
+- 104 : Unfinished Loop - Bug Fixing #1
+- 105 :  
