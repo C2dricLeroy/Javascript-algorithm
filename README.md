@@ -115,3 +115,4 @@ Moreover, not all the solutions are refactored or improved yet!
 - 103 : Generate range of integers
 - 104 : Unfinished Loop - Bug Fixing #1
 - 105 : Get Planet Name By ID
+- 106 : Quarter of the year
