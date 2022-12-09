@@ -117,3 +117,4 @@ Moreover, not all the solutions are refactored or improved yet!
 - 105 : Get Planet Name By ID
 - 106 : Quarter of the year
 - 107 : Beginner Series #4 Cockroach
+- 108 : Do I get a bonus?
