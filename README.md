@@ -119,3 +119,4 @@ Moreover, not all the solutions are refactored or improved yet!
 - 107 : Beginner Series #4 Cockroach
 - 108 : Do I get a bonus?
 - 109 : Is n divisible by x and y?
+- 110 : Push a hash/an object into array
