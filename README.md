@@ -123,3 +123,4 @@ Moreover, not all the solutions are refactored or improved yet!
 - 111 : Add Length
 - 112 : Find the Difference in Age between Oldest and Youngest Family Members
 - 113 : SpeedCode #2 - Array Madness
+- 114 : To square(root) or not to square(root)
