@@ -125,3 +125,5 @@ Moreover, not all the solutions are refactored or improved yet!
 - 113 : SpeedCode #2 - Array Madness
 - 114 : To square(root) or not to square(root)
 - 115 : Enumerable Magic #1 - True for All?
+- 116 : esreveR gnirtS
+- 
