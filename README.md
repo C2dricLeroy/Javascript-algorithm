@@ -129,3 +129,4 @@ Moreover, not all the solutions are refactored or improved yet!
 - 117 : A wolf in sheep's clothing
 - 118 : Filling an array (part 1)
 - 119 : altERnaTIng cAsE <=> ALTerNAtiNG CaSe
+- 120 : Is the date today
