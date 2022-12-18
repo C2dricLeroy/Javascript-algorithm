@@ -130,3 +130,4 @@ Moreover, not all the solutions are refactored or improved yet!
 - 118 : Filling an array (part 1)
 - 119 : altERnaTIng cAsE <=> ALTerNAtiNG CaSe
 - 120 : Is the date today
+- 121 : Points of Reflection
