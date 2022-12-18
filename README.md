@@ -132,4 +132,5 @@ Moreover, not all the solutions are refactored or improved yet!
 - 120 : Is the date today
 - 121 : Points of Reflection
 - 122 : Semi-Optional
+- 123 : Template Strings
 
