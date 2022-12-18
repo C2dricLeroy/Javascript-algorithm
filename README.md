@@ -134,4 +134,5 @@ Moreover, not all the solutions are refactored or improved yet!
 - 122 : Semi-Optional
 - 123 : Template Strings
 - 124 : Decibel Scale
+- 125 : Fundamentals: Return
 
