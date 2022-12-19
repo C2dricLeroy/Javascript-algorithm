@@ -135,4 +135,5 @@ Moreover, not all the solutions are refactored or improved yet!
 - 123 : Template Strings
 - 124 : Decibel Scale
 - 125 : Fundamentals: Return
+- 126 : Freudian translator
 
