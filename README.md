@@ -135,5 +135,6 @@ Moreover, not all the solutions are refactored or improved yet!
 - 123 : Template Strings
 - 124 : Simple validation of a username with regex
 - 125 : getNames()
+- 126 : Debug Sum of Digits of a Number
 
 
