@@ -139,5 +139,6 @@ Moreover, not all the solutions are refactored or improved yet!
 - 127 : Hex to Decimal
 - 128 : Hello, Name or World!
 - 129 : get character from ASCII Value
+- 130 : Student's Final Grade
 
 
