@@ -137,5 +137,6 @@ Moreover, not all the solutions are refactored or improved yet!
 - 125 : getNames()
 - 126 : Exclamation marks series #1: Remove an exclamation mark from the end of string
 - 127 : Hex to Decimal
+- 128 : Hello, Name or World!
 
 
