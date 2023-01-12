@@ -143,5 +143,6 @@ Moreover, not all the solutions are refactored or improved yet!
 - 131 : Reverse List Order
 - 132 : What is between?
 - 133 : Expressions Matter
+- 134 : Sum without highest and lowest number
 
 
