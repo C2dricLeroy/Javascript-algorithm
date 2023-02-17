@@ -1,0 +1,1 @@
+const rentalCarCost = d => d < 3 ? 40 * d : d >= 7 ? (d * 40)-50 : (d*40)-20;
