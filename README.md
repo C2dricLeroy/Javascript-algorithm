@@ -154,5 +154,6 @@ Moreover, not all the solutions are refactored or improved yet!
 - 142 : Grasshopper - Array Mean
 - 143 : 101 Dalmatians - squash the bugs, not the dogs!
 - 144 : How many stairs will Suzuki climb in 20 years?
+- 145 : Largest Elements
 
 
