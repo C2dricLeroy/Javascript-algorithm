@@ -152,5 +152,6 @@ Moreover, not all the solutions are refactored or improved yet!
 - 140 : Swap Values
 - 141 : Take an Arrow to the knee, Functionally
 - 142 : Grasshopper - Array Mean
+- 143 : 101 Dalmatians - squash the bugs, not the dogs!
 
 
