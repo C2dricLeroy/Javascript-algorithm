@@ -159,6 +159,6 @@ Moreover, not all the solutions are refactored or improved yet!
 - 147 : Grasshopper - Check for factor
 - 148 : Correct the mistakes of the character recognition software
 - 149 : Merge two sorted arrays into one
-
+- 150 : Are they square? 
 
 
