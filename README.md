@@ -157,5 +157,6 @@ Moreover, not all the solutions are refactored or improved yet!
 - 145 : Largest Elements
 - 146 : Olympic Rings
 - 147 : Grasshopper - Check for factor
+- 148 : Correct the mistakes of the character recognition software
 
 
