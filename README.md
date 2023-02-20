@@ -164,5 +164,6 @@ Moreover, not all the solutions are refactored or improved yet!
 - 152 : Jaden Casing Strings
 - 153 : Isograms
 - 154 : Exes and Ohs
+- 155 : List Filtering
 
 
