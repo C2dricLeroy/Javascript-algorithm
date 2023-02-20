@@ -162,5 +162,6 @@ Moreover, not all the solutions are refactored or improved yet!
 - 150 : Are they square? 
 - 151 : You're a square!
 - 152 : Jaden Casing Strings
+- 153 : Isograms
 
 
