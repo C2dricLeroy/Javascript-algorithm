@@ -170,6 +170,7 @@ Moreover, not all the solutions are refactored or improved yet!
 - 158 : Highest and Lowest
 - 159 : Digit*Digit
 - 160 : Pillars
+- 161 : Reversed Words
 
 
 
