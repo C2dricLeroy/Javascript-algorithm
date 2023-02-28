@@ -167,5 +167,6 @@ Moreover, not all the solutions are refactored or improved yet!
 - 155 : List Filtering
 - 156 : Descending Order
 - 157 : Shortest Word
+- 158 : Highest and Lowest
 
 
