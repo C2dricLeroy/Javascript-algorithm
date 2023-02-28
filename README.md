@@ -171,6 +171,6 @@ Moreover, not all the solutions are refactored or improved yet!
 - 159 : Digit*Digit
 - 160 : Pillars
 - 161 : Reversed Words
-
+- 162 : Grasshopper - Personalized Message
 
 
